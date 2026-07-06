@@ -41,7 +41,6 @@ R version 4.4.3 (2025-02-28)
 | fgsea | 1.32.4 |
 | data.table | 1.17.8 |
 | patchwork | 1.3.0 |
-| devEMF | 4.5 |
 | grid | 4.4.3 |
 
 ## Citation
